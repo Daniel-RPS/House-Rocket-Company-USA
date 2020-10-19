@@ -16,6 +16,8 @@ Utilizando pandas, numpy, seaborn e matplotlib para coletar, limpar e explorar d
 
 Após a limpesa e análise do dataset, foi construído um modelo de regressão linear simples para prever o valor das casas utilizando a biblioteca Scikit-Learn, utilizando o canal "Seja um Data Scientist" como referência. O link está disponível aqui: https://www.youtube.com/watch?v=tsVWd6I5nuk&ab_channel=SejaUmDataScientist
 
+Além disso, foi adicionado um mapa de calor mostrando a localização das casas na cidade. O mapa pode ser visto utilizando ferramentas como Jupyter Notebook ou Google Colab.
+
 O conjunto de dados que representam o contexto está disponível na plataforma do Kaggle: https://www.kaggle.com/harlfoxem/housesalesprediction
 
 Esse conjunto de dados contém casas vendidas entre Maio de 2014 e Maio de 2015.
