@@ -1,4 +1,7 @@
 # House-Rocket-Company-USA
+
+![alt text](https://github.com/Daniel-RPS/House-Rocket-Company-USA/blob/master/dataset-card.jpg)
+
 Coletando, limpando e explorando dados do dataset House Sales in King County, da cidade de Seattle, no estado de Washington, USA
 
 Utilizando pandas, numpy, seaborn e matplotlib para coletar, limpar e explorar dados sobre quais tipos de casa existem na cidade de Seattle. Nesse contexto, são respondidas, através de gráficos, as seguintes hipóteses: 
